@@ -9,7 +9,7 @@ public class Lab203 {
         subjects = addArraySize(subjects);
         subjects[subjects.length - 1] = newSub;
         displayArray("Already apended element", subjects);
-        System.out.println();
+        System.out.println( );
         
         int delIdx1 = 3;
         subjects = deleteElement(delIdx1, subjects);
