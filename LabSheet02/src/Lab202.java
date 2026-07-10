@@ -39,7 +39,7 @@ public class Lab202 {
             nums.set(d3, today);
         }
  
-        System.out.println("display all element : " + nums);
+        System.out.println("display alll element : " + nums);
         sc.close();
     }
 }
