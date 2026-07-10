@@ -9,6 +9,6 @@ public class Lab201 {
         names.add("John");
  
         System.out.println("Length = " + names.size());
-        System.out.println("All names in ArrayLists " + names);
+        System.out.println("All names in ArrayList " + names);
     }
 }
