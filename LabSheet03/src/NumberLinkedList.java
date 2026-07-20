@@ -38,4 +38,4 @@ public class NumberLinkedList {
         numbers.clear();
         System.out.println("Clear Linked List = " + numbers.traversal());
     }
-}
+} 

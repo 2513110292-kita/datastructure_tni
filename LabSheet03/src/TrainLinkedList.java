@@ -36,4 +36,4 @@ public class TrainLinkedList {
 
         System.out.println("All Stations : " + greenline.traversal());
     }
-}
+} 

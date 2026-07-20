@@ -120,4 +120,4 @@ public class LinkedList {
     public void clear() {
         head = null;
     }
-}
+} 

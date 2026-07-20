@@ -32,4 +32,4 @@ public class TestLinkedNode {
         System.out.println("Node 4 address  = " + Node.getAddress(node4));
         System.out.println("Node 4 point to = " + Node.getAddress(node4.next));
     }
-}
+} 
